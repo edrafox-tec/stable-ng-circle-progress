@@ -1,5 +1,5 @@
 {
-  "name": "ng-circle-progress",
+  "name": "stable-ng-circle-progress-edra",
   "version": "1.0.0",
   "description": "It is a simple circle progress component created for [angular](https://angular.io) based only on SVG graphics and has various of options to customize it.",
   "main": "bundles/ng-circle-progress.umd.js",
